@@ -1,3 +1,10 @@
+# Сылки
+[SQLite Window Functions](https://sqlite.org/windowfunctions.html)
+
+[PostgreSQL Window Functions](https://www.postgresql.org/docs/13/tutorial-window.html)
+
+
+
 ## Домашнее задание 3
 
 
